@@ -1,0 +1,172 @@
+[33mcommit 50068d218d1b9abb0df2a4d3e1dc098b6e84f7de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: ca390a5 eaeb6a0
+Author: Aditya Vikram Singh <aditya.11.present@gmail.com>
+Date:   Sun Jun 13 12:13:25 2021 +0530
+
+    Merge pull request #9 from AVS1508/imgbot
+    
+    [ImgBot] Optimize images
+
+[33mcommit eaeb6a0172645b6515be670bae2d4a158eef3639[m
+Author: ImgBotApp <ImgBotHelp@gmail.com>
+Date:   Sun Jun 13 05:19:50 2021 +0000
+
+    [ImgBot] Optimize images
+    
+    *Total -- 1,073.09kb -> 977.30kb (8.93%)
+    
+    /assets/img/jpg/Personal-Resume-Website.jpg -- 830.35kb -> 743.24kb (10.49%)
+    /assets/img/jpg/Professional-Picture-Me.jpg -- 242.73kb -> 234.06kb (3.57%)
+    
+    Signed-off-by: ImgBotApp <ImgBotHelp@gmail.com>
+
+[33mcommit ca390a5eb7a8270b68debe089884265e06216005[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Sun Jun 13 10:49:24 2021 +0530
+
+    Restructured assets; Implemented webp asset priority
+
+[33mcommit 296e3aed50f275256d2921bf0d2c64f33515775d[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Sun Jun 13 10:30:04 2021 +0530
+
+    Updated description, languages and projects
+
+[33mcommit 710d606864c1e0832e7a138bf04f1bc64654464c[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Sun Jun 13 10:29:28 2021 +0530
+
+    Updated img assets
+
+[33mcommit e6493ad044aa87b2d1f31bd1f436d0937c237424[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Wed Jan 27 22:19:06 2021 +0530
+
+    Updated README.md
+
+[33mcommit 4e53aa5b539e2fab0f46d801a40449826c34f4e2[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Wed Jan 27 22:17:51 2021 +0530
+
+    Added sitemap; Verified ownership for Google Search Console optimization
+
+[33mcommit b16aaf6f1a065ee059bd23fa3d4485d05a9ab1b6[m
+Author: Aditya Vikram Singh <aditya.11.present@gmail.com>
+Date:   Fri Aug 21 23:56:42 2020 +0530
+
+    Update README.md
+
+[33mcommit 8226beb2dc9a37f1daaabcfbfe8fb601052e5bb9[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Wed Aug 12 11:30:19 2020 +0530
+
+    Updated README.md
+
+[33mcommit 01c251dd7748b632d7f7b54ee39999e8951d3bf4[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Wed Aug 12 09:11:31 2020 +0530
+
+    Fixes for #4, #5, #6, #7
+
+[33mcommit 99b027fdfeeac17cb8575f990d112660c2452374[m
+Merge: bbe68d6 6eb0034
+Author: Aditya Vikram Singh <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 17:46:36 2020 +0530
+
+    Merge pull request #3 from AVS1508/imgbot
+    
+    [ImgBot] Optimize images
+
+[33mcommit 6eb0034f4b025f1acf8a9988672fd70b6b134470[m
+Author: ImgBotApp <ImgBotHelp@gmail.com>
+Date:   Fri Aug 7 12:15:48 2020 +0000
+
+    [ImgBot] Optimize images
+    
+    /My-Alternate-Portfolio-Website.jpg -- 231.75kb -> 157.36kb (32.1%)
+    
+    Signed-off-by: ImgBotApp <ImgBotHelp@gmail.com>
+
+[33mcommit bbe68d66d5b6258e27e32d1dc492cd3718652e3e[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 17:31:04 2020 +0530
+
+    Reset Assets
+
+[33mcommit 2c9062f1756e2290cd616073ef29e4ddfe8070bb[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 17:30:26 2020 +0530
+
+    Reset Assets
+
+[33mcommit 9e6f5ca811ca0527dd8c2c7fdd27416de798be9c[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 17:28:51 2020 +0530
+
+    Reorganized assets
+
+[33mcommit b5ca87b346c0c27791c5c94fa213f7f14dec6d80[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 17:26:55 2020 +0530
+
+    Added Video
+
+[33mcommit d6f77d6264ce2ede9472d6003e71b3eb126375fa[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 17:22:55 2020 +0530
+
+    Added Video
+
+[33mcommit 44326139bd4303b808306b7e6f723d48954f57bf[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 17:17:54 2020 +0530
+
+    Added iframe
+
+[33mcommit 53e8b17c4fdede5ae9c18cc35b14dc32ea085c29[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 16:55:26 2020 +0530
+
+    Create My-Alternate-Portfolio-Website.jpg
+
+[33mcommit f590e75b6dde6046d8053436c0b88b9ce4296222[m
+Merge: edd87e0 35ccbac
+Author: Aditya Vikram Singh <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 13:03:07 2020 +0530
+
+    Merge pull request #1 from AVS1508/imgbot
+    
+    [ImgBot] Optimize images
+
+[33mcommit edd87e039e5c2aba85635d6f6d0a7e30d4f65f2a[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 13:02:27 2020 +0530
+
+    Added README.md
+
+[33mcommit 77d6c82c27c3756c2e66dc6ee591c24a648a8313[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 13:01:16 2020 +0530
+
+    Added README.md
+
+[33mcommit 35ccbacee8ffbb286664f18d59a4e15f8f660d22[m
+Author: ImgBotApp <ImgBotHelp@gmail.com>
+Date:   Fri Aug 7 07:31:02 2020 +0000
+
+    [ImgBot] Optimize images
+    
+    *Total -- 403.91kb -> 350.20kb (13.3%)
+    
+    /assets/img/Valuto-Account-Management.jpg -- 85.29kb -> 71.58kb (16.07%)
+    /assets/img/COVID19-Tracker-App.jpg -- 108.21kb -> 92.33kb (14.68%)
+    /assets/img/Summer-2020-Project.jpg -- 94.97kb -> 83.11kb (12.49%)
+    /assets/img/Personal-Resume-Website.jpg -- 115.44kb -> 103.17kb (10.62%)
+    
+    Signed-off-by: ImgBotApp <ImgBotHelp@gmail.com>
+
+[33mcommit 71263816efc2e70b74e0dc146a87d1433cc9f036[m
+Author: AVS1508 <aditya.11.present@gmail.com>
+Date:   Fri Aug 7 12:59:57 2020 +0530
+
+    Initial Commit on Website
